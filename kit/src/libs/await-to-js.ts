@@ -1,0 +1,1 @@
+export { to as sieve } from 'await-to-js'
